@@ -1,0 +1,29 @@
+# Keil build and user settings
+[Oo]bjects/
+[Ll]istings/
+*.uvguix*
+*.uvoptx
+*.axf
+*.hex
+*.bin
+*.o
+*.map
+
+# Python environments and build output
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+
+# Local copies of the kit and setup packages
+vendor/
+*.exe
+*.msi
+*.pack
+*.zip
+*.rar
+
+# Operating system files
+Thumbs.db
+.DS_Store
